@@ -117,7 +117,6 @@ https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="FILM | HIBURAN" tvg-logo="https://i.pinimg.com/236x/2b/67/c6/2b67c6b251340952e5d3a3f210b0732d.jpg",OUTERSPHERE https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
